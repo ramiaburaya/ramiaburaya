@@ -34,9 +34,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ramiaburaya/ramiaburaya/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
