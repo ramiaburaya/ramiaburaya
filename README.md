@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rami Aburayya and I'm a computer science , from Palestine</h2>
+<h2 align="left">Hi 👋! My name is Rami Aburayya and I'm a third-year Computer Science student at Birzeit University , mainly focusing on enhancing my technical skills, interested in cybersecurity and software engineering . Always open to learn new skills, seeking my way to be security software Engineer</h2>
 
 ###
 
