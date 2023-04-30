@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Rami Aburayya <br>I'm a third-year Computer Science student at Birzeit University , mainly focusing on enhancing my technical skills, interested in cybersecurity and software engineering . Always open to learn new skills, seeking my way to be security software Engineer<br><br>Technical Team Member @ GDSC Birzeit University</h2>
+<h2 align="left">Hi 👋! My name is Rami Aburayya <br>
+  Third-year Computer Science student at Birzeit University. Mainly focusing on enhancing my technical skills, i have good skills in coding and problem-solving with a great motivation to get the job done as soon as possible. Always open to learn new skills, seeking my way to be professional software engineer.<br><br>Technical Team Member @ GDSC Birzeit University</h2>
 
 ###
 
