@@ -3,6 +3,8 @@
 <h2 align="left">Hi 👋! My name is Rami Aburayya <br>
   Third-year Computer Science student at Birzeit University. Mainly focusing on enhancing my technical skills, i have good skills in coding and problem-solving with a great motivation to get the job done as soon as possible. Always open to learn new skills, seeking my way to be professional software engineer.<br><br>Technical Team Member @ GDSC Birzeit University</h2>
 
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/raburaya2.png" alt="TryHackMe">
 ###
 
 <div align="center">
@@ -28,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/raburaya2.png" alt="TryHackMe">
 
 ###
 
