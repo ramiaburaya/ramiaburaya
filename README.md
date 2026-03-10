@@ -1,7 +1,11 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Rami Aburayya <br>
-Fourth-year Computer Science student with a strong passion for coding and problem-solving. I am on a mission to learn and grow, and right now, I am diving into the fascinating world of cybersecurity through Hack The Box Academy, where I am acquiring hands-on experience and knowledge in Cyber Security. My goal is to become a professional Cyber Security Engineer<br><br>Vice President @ GDSC Birzeit University</h2>
+Cyber Security Engineer | OSCP & OSCP+ Certified
+
+Passionate about ethical hacking, penetration testing, and red team operations, I thrive on identifying vulnerabilities and strengthening systems against real-world threats. I specialize in simulating attacks, assessing security gaps, and implementing proactive measures to enhance organizational resilience.
+
+I bring hands-on experience from roles including DevOps Engineer, where I worked on automation, CI/CD, and Kubernetes, and Information Security Officer Intern at Bank of Jordan, where I focused on compliance, threat hunting, and incident response.
 
 ###
 
